@@ -9,4 +9,4 @@
 
 **Respuesta 1:**
 
-![tabla](https://github.com/cxro-cc/Practica02_Equipo07/blob/main/tabla%201.pdf)
+![tabla](https://github.com/cxro-cc/Practica02_Equipo07/blob/main/tabla.jpg)
